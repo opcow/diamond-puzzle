@@ -1,5 +1,5 @@
 # Diamond Puzzle
-I saw this puzzle on YouTube and decided to try recreating it in Fusion 360 a try. I think it came out well.  Unfortunately, I would rate the difficulty of this puzzle at about 1 on a scale of 5. If you have 30 minutes and 8 seconds to kill, you can print this puzzle in about 30 minutes and then solve it in the remaining 8 seconds. Enjoy.
+I saw this puzzle on YouTube and decided to try recreating it in Fusion 360. I think it came out well.  Unfortunately, I would rate the difficulty of this puzzle at about 1 on a scale of 5. If you have 30 minutes and 8 seconds to kill, you can print this puzzle in about 30 minutes and then solve it in the remaining 8 seconds. Enjoy.
 
 ### Notes
 ----
